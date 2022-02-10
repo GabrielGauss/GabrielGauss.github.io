@@ -74,6 +74,18 @@
         align-items: center;
     }
     
+    .hero-header {
+        color: rgb(64, 60, 60);
+        font-weight: bold;
+        font-size: x-large;
+    }
+    
+    .number1 {
+        color: rgb(255, 217, 5);
+        font-size: 3rem;
+        font-weight: bolder;
+    }
+    
     .main-hero-title {
         width: 30%;
         font-weight: 700;
@@ -87,7 +99,7 @@
     .hero-subtitle {
         color: rgb(64, 60, 60);
         font-weight: 400;
-        font-size: large;
+        font-size: larger;
         padding: .4rem;
         margin-bottom: 1rem;
         /* margin: 1rem 9rem; */
